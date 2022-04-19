@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pageJoke"
+        android:enabled="true"
+        android:icon="@drawable/joke"
+        android:title="@string/labelJoke"/>
+    <item
+        android:id="@+id/pageWeb"
+        android:enabled="true"
+        android:icon="@drawable/web"
+        android:title="@string/labelWeb"/>
+</menu>

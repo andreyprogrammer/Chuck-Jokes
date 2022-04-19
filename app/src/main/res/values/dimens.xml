@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_item">4dp</dimen>
+    <dimen name="margin_label">4dp</dimen>
+    <dimen name="margin_joke">4dp</dimen>
+    <dimen name="margin_top_number">4dp</dimen>
+    <dimen name="margin_end_number">4dp</dimen>
+    <dimen name="margin_start_number">0dp</dimen>
+    <dimen name="margin_rv">4dp</dimen>
+    <dimen name="label_text_size">12sp</dimen>
+    <dimen name="joke_text_size">14sp</dimen>
+    <dimen name="elevation_card">2dp</dimen>
+</resources>

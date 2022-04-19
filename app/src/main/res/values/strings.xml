@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chuck Jokes</string>
+    <string name="label_text">Joke #</string>
+    <string name="labelJoke">Jokes</string>
+    <string name="labelWeb">Web</string>
+    <string name="btn_text">reload</string>
+    <string name="input_hint">enter number of jokes</string>
+</resources>
