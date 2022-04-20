@@ -36,6 +36,5 @@ class JokesRecyclerViewAdapter :
             binding.jokeCard = joke
             binding.executePendingBindings()
         }
-
     }
 }
